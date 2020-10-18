@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49790f4b.chunk.css",
+    "main.js": "/static/js/main.2814e604.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.7e054cd6.js",
+    "static/js/2.9ffc951f.chunk.js": "/static/js/2.9ffc951f.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.a7e91cb3ecd4acdf6b2001d3a48331c9.js": "/precache-manifest.a7e91cb3ecd4acdf6b2001d3a48331c9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.9ffc951f.chunk.js.LICENSE.txt": "/static/js/2.9ffc951f.chunk.js.LICENSE.txt",
+    "static/media/01_Android Studio.pdf": "/static/media/01_Android Studio.a21423c5.pdf",
+    "static/media/02_The Android System.pdf": "/static/media/02_The Android System.b58479cf.pdf",
+    "static/media/03_Layouts, Resources and Permissions.pdf": "/static/media/03_Layouts, Resources and Permissions.7737f13a.pdf",
+    "static/media/04_Activity and Intent.pdf": "/static/media/04_Activity and Intent.2ae9d83f.pdf",
+    "static/media/05_UI Controls.pdf": "/static/media/05_UI Controls.5798686f.pdf",
+    "static/media/06_Data Persistence.pdf": "/static/media/06_Data Persistence.e7b3bb44.pdf",
+    "static/media/07_Fragment.pdf": "/static/media/07_Fragment.1a74f105.pdf",
+    "static/media/08_Threads and AsyncTask.pdf": "/static/media/08_Threads and AsyncTask.8cf024c5.pdf",
+    "static/media/09_Notification.pdf": "/static/media/09_Notification.7cbb43b0.pdf",
+    "static/media/10_Services.pdf": "/static/media/10_Services.3c3e5887.pdf",
+    "static/media/11_Content Provider.pdf": "/static/media/11_Content Provider.1c7c9874.pdf",
+    "static/media/12_Broadcast Receiver.pdf": "/static/media/12_Broadcast Receiver.4e1cb69c.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e054cd6.js",
+    "static/js/2.9ffc951f.chunk.js",
+    "static/css/main.49790f4b.chunk.css",
+    "static/js/main.2814e604.chunk.js"
+  ]
+}
